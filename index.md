@@ -1,5 +1,5 @@
-#RADIOMICA PER COVID-19
+# RADIOMICA PER COVID-19
 
-Radiomica su CT COVID-19 on demand.
+Radiomica on demand da immagini CT per COVID-19.
 
-![CT e CT segmentata automaticamente] (CT_CTlabeled.png)
+![CT_CTlabeled](CT_CTlabeled.png)
